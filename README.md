@@ -11,4 +11,4 @@ Debian & Fedora.
 EOF is a heredoc. In bash the cat <<EOF syntax is useful if working with multi-line text for example when assigning multi-line string to a shell variable or writing multi lines to a file. 
 
 ### Additional Questions : Task 5
-ssh-copy-id -i ~/.ssh/<mykey> <user>@<remote-host>
+ssh-copy-id -i ~/.ssh/_mykey_ _user@remote-host_
