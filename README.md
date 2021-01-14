@@ -1,3 +1,6 @@
+## Task -1
+The script dumps the required parameters to a file.
+Copied from a windows machine - please don't be surprised if quotes (",',\`) aren't copied in the right format.
 ### Additional Questions : Task 1
 If the script runs as expected when run manually but fails when run from Crontab (assuming the script has execute permission):
 1. Is /usr/local/mytool added to the PATH ?
